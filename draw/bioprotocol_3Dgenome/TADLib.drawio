@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram id="tUrqIbvAAvecpx44-tMB" name="第 1 页">
+        <mxGraphModel dx="2262" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Preparing_TADLib_file" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="350" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="290" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="hicproTocool.py" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="274" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="toCooler" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="352" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="TADLib config" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="430" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="-40" y="290" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="H3DGIP位置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" vertex="1" parent="1">
+                    <mxGeometry x="-230" y="274" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="TAD分辨率" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-230" y="352" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="样本名称" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" vertex="1" parent="1">
+                    <mxGeometry x="-230" y="430" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="287" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-18" y="341" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="287" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;span style=&quot;font-size: 20px&quot;&gt;输出&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="332" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="单条染色体切分命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="274" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="多条染色体合并命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="352" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="TADLib 运行命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="430" width="180" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

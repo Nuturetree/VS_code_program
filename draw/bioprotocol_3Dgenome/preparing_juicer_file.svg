@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1195 322" style="enable-background:new 0 0 1195 322;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:20px;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#60BCD1;stroke-width:2;}
+	.st5{font-size:17px;}
+	.st6{fill:#FFFFFF;stroke:#FEC000;stroke-width:2;}
+	.st7{fill:#FFFFFF;stroke:#ED5D31;stroke-width:2;}
+	.st8{fill:#FFFFFF;stroke:#C1B4D2;stroke-width:2;}
+	.st9{enable-background:new    ;}
+	.st10{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st12{stroke:#000000;stroke-miterlimit:10;}
+	.st13{fill:none;}
+	.st14{font-size:12px;}
+</style>
+<g>
+	<path pointer-events="all" class="st0" d="M350.5,139.5h208c3.3,0,6,2.7,6,6v28c0,3.3-2.7,6-6,6h-208c-3.3,0-6-2.7-6-6v-28
+		C344.5,142.2,347.2,139.5,350.5,139.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 363.3379 165.5)" class="st1 st2">Preparing_juicer_file</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M589.5,79.5h-5c-3.3,0-5,3.3-5,10v60c0,6.7-1.7,10-5,10H572c-1.7,0-0.8,0,2.5,0h2.5
+		c1.7,0,2.5,3.3,2.5,10v60c0,6.7,1.7,10,5,10h5"/>
+	<path pointer-events="all" class="st4" d="M604,63.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H604c-2.5,0-4.5-2-4.5-4.5V68
+		C599.5,65.5,601.5,63.5,604,63.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 616.3757 83.5)" class="st1 st5">generate_site_positions.py</text>
+	</g>
+	<path pointer-events="all" class="st6" d="M604,115.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H604c-2.5,0-4.5-2-4.5-4.5
+		v-21C599.5,117.5,601.5,115.5,604,115.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 663.1714 135.5)" class="st1 st5">samtools faidx</text>
+	</g>
+	<path pointer-events="all" class="st7" d="M604,167.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H604c-2.5,0-4.5-2-4.5-4.5
+		v-21C599.5,169.5,601.5,167.5,604,167.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 679.2251 187.5)" class="st1 st5">bwa index</text>
+	</g>
+	<path pointer-events="all" class="st8" d="M604,219.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H604c-2.5,0-4.5-2-4.5-4.5
+		v-21C599.5,221.5,601.5,219.5,604,219.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 669.3264 239.5)" class="st9"><tspan x="0" y="0" class="st1 st5">juicer </tspan><tspan x="45.3" y="0" class="st10 st5">配置文件</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st11" d="M265.5,158.6l72.6,0.4"/>
+	<path pointer-events="all" class="st12" d="M343.4,158.9l-7,3.5l1.8-3.5l-1.7-3.5L343.4,158.9z"/>
+	<path pointer-events="all" class="st3" d="M245.5,13.5h5c3.3,0,5,3.3,5,10v125c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H258
+		c-1.7,0-2.5,3.3-2.5,10v125c0,6.7-1.7,10-5,10h-5"/>
+	<path pointer-events="all" class="st6" d="M6,1.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V6
+		C1.5,3.5,3.5,1.5,6,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 75.1033 21.5)" class="st9"><tspan x="0" y="0" class="st1 st5">H3DGIP</tspan><tspan x="63.3" y="0" class="st10 st5">位置</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,42.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V47
+		C1.5,44.5,3.5,42.5,6,42.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 87.625 62.5)" class="st10 st5">基因组文件</text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,125.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,127.5,3.5,125.5,6,125.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 77.0042 145.5)" class="st9"><tspan x="0" y="0" class="st1 st5">Hi-C</tspan><tspan x="34" y="0" class="st10 st5">文库位置</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,167.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,169.5,3.5,167.5,6,167.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 48.4121 187.5)" class="st9"><tspan x="0" y="0" class="st1 st5">compartment </tspan><tspan x="103.9" y="0" class="st10 st5">分辨率</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,208.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,210.5,3.5,208.5,6,208.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 81.6443 228.5)" class="st9"><tspan x="0" y="0" class="st1 st5">TAD </tspan><tspan x="38.7" y="0" class="st10 st5">分辨率</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,250.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,252.5,3.5,250.5,6,250.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 81.9431 270.5)" class="st9"><tspan x="0" y="0" class="st1 st5">loop </tspan><tspan x="36.9" y="0" class="st10 st5">分辨率</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,84.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V89
+		C1.5,86.5,3.5,84.5,6,84.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 68.5 104.5)" class="st10 st5">限制性内切酶类型</text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,291.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,293.5,3.5,291.5,6,291.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 94 311.5)" class="st10 st5">样本名称</text>
+	</g>
+	<rect x="274.5" y="125.5" pointer-events="all" class="st13" width="60" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 295.5 139.5)" class="st10 st14">输入</text>
+	</g>
+	<path pointer-events="stroke" class="st11" d="M862.5,158.5l55.3-0.1"/>
+	<path pointer-events="all" class="st12" d="M923,158.3l-7,3.5l1.7-3.5l-1.8-3.5L923,158.3z"/>
+	<path pointer-events="all" class="st3" d="M842.5,78.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H855
+		c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+	<path pointer-events="all" class="st3" d="M944.5,78.5h-5c-3.3,0-5,3.3-5,10v60c0,6.7-1.7,10-5,10H927c-1.7,0-0.8,0,2.5,0h2.5
+		c1.7,0,2.5,3.3,2.5,10v60c0,6.7,1.7,10,5,10h5"/>
+	<path pointer-events="all" class="st4" d="M964,66.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H964c-2.5,0-4.5-2-4.5-4.5V71
+		C959.5,68.5,961.5,66.5,964,66.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1022.9514 86.5)" class="st9"><tspan x="0" y="0" class="st1 st5">juicer </tspan><tspan x="45.3" y="0" class="st10 st5">可执行命令</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M964,118.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H964c-2.5,0-4.5-2-4.5-4.5
+		v-21C959.5,120.5,961.5,118.5,964,118.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1000.0371 138.5)" class="st9"><tspan x="0" y="0" class="st10 st5">鉴定</tspan><tspan x="34" y="0" class="st1 st5">compartment</tspan><tspan x="133.2" y="0" class="st10 st5">命令</tspan><tspan x="167.2" y="0" class="st1 st5"> </tspan></text>
+	</g>
+	<path pointer-events="all" class="st7" d="M964,170.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H964c-2.5,0-4.5-2-4.5-4.5
+		v-21C959.5,172.5,961.5,170.5,964,170.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1035.6309 190.5)" class="st9"><tspan x="0" y="0" class="st10 st5">鉴定</tspan><tspan x="34" y="0" class="st1 st5">TAD</tspan><tspan x="68" y="0" class="st10 st5">命令</tspan></text>
+	</g>
+	<path pointer-events="all" class="st8" d="M964,222.5h226c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H964c-2.5,0-4.5-2-4.5-4.5
+		v-21C959.5,224.5,961.5,222.5,964,222.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1035.9297 242.5)" class="st9"><tspan x="0" y="0" class="st10 st5">鉴定</tspan><tspan x="34" y="0" class="st1 st5">loop</tspan><tspan x="66.1" y="0" class="st10 st5">命令</tspan></text>
+	</g>
+	<rect x="864.5" y="128.5" pointer-events="all" class="st13" width="60" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 885.5 142.5)" class="st10 st14">输出</text>
+	</g>
+</g>
+</svg>

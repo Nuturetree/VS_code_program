@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1048 189" style="enable-background:new 0 0 1048 189;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:20px;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#60BCD1;stroke-width:2;}
+	.st5{font-size:17px;}
+	.st6{fill:#FFFFFF;stroke:#C1B4D2;stroke-width:2;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st8{stroke:#000000;stroke-miterlimit:10;}
+	.st9{enable-background:new    ;}
+	.st10{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st11{fill:#FFFFFF;stroke:#FEC000;stroke-width:2;}
+	.st12{fill:none;}
+	.st13{font-size:12px;}
+</style>
+<g>
+	<path pointer-events="all" class="st0" d="M283.5,77.5h208c3.3,0,6,2.7,6,6v28c0,3.3-2.7,6-6,6h-208c-3.3,0-6-2.7-6-6v-28
+		C277.5,80.2,280.2,77.5,283.5,77.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 292.4609 103.5)" class="st1 st2">Preparing_FitHiC_file</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M522.5,17.5h-5c-3.3,0-5,3.3-5,10v60c0,6.7-1.7,10-5,10H505c-1.7,0-0.8,0,2.5,0h2.5
+		c1.7,0,2.5,3.3,2.5,10v60c0,6.7,1.7,10,5,10h5"/>
+	<path pointer-events="all" class="st4" d="M537,1.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H537c-2.5,0-4.5-2-4.5-4.5V6
+		C532.5,3.5,534.5,1.5,537,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 565.8057 21.5)" class="st1 st5">hicpro2fithic.py</text>
+	</g>
+	<path pointer-events="all" class="st6" d="M537,157.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H537c-2.5,0-4.5-2-4.5-4.5
+		v-21C532.5,159.5,534.5,157.5,537,157.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 593.2314 177.5)" class="st1 st5">Fit-Hi-C</text>
+	</g>
+	<path pointer-events="stroke" class="st7" d="M210.5,97.5h60.6"/>
+	<path pointer-events="all" class="st8" d="M276.4,97.5l-7,3.5l1.8-3.5l-1.8-3.5L276.4,97.5z"/>
+	<path pointer-events="all" class="st3" d="M190.5,17.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H203
+		c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+	<path pointer-events="all" class="st4" d="M6,1.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V6
+		C1.5,3.5,3.5,1.5,6,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 47.1033 21.5)" class="st9"><tspan x="0" y="0" class="st1 st5">H3DGIP</tspan><tspan x="63.3" y="0" class="st10 st5">位置</tspan></text>
+	</g>
+	<path pointer-events="all" class="st11" d="M6,79.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V84
+		C1.5,81.5,3.5,79.5,6,79.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 56.3047 99.5)" class="st9"><tspan x="0" y="0" class="st1 st5">loop</tspan><tspan x="32.1" y="0" class="st10 st5">分辨率</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,157.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,159.5,3.5,157.5,6,157.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 66 177.5)" class="st10 st5">样本名称</text>
+	</g>
+	<rect x="209.5" y="68.5" pointer-events="all" class="st12" width="60" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 230.5 82.5)" class="st10 st13">输入</text>
+	</g>
+	<path pointer-events="stroke" class="st7" d="M737.5,94.5h63.6"/>
+	<path pointer-events="all" class="st8" d="M806.4,94.5l-7,3.5l1.8-3.5l-1.8-3.5L806.4,94.5z"/>
+	<path pointer-events="all" class="st3" d="M717.5,14.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H730
+		c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+	<path pointer-events="all" class="st3" d="M827.5,174.5h-5c-3.3,0-5-3.3-5-10v-60c0-6.7-1.7-10-5-10H810c-1.7,0-0.8,0,2.5,0h2.5
+		c1.7,0,2.5-3.3,2.5-10v-60c0-6.7,1.7-10,5-10h5"/>
+	<rect x="740.5" y="67.5" pointer-events="all" class="st12" width="60" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 761.5 81.5)" class="st10 st13">输出</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M844.8,2.5h191.5c6.2,0,11.3,5,11.3,11.3v52.5c0,6.2-5,11.3-11.3,11.3H844.8
+		c-6.2,0-11.3-5-11.3-11.3V13.7C833.5,7.5,838.5,2.5,844.8,2.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 842.7769 35.0199)" class="st9"><tspan x="0" y="0" class="st10 st5">将</tspan><tspan x="17" y="0" class="st1 st5">HiC-Pro</tspan><tspan x="77.4" y="0" class="st10 st5">输出文件转换为</tspan><tspan x="0" y="20.4" class="st1 st5">Fit-Hi-C</tspan><tspan x="58.5" y="20.4" class="st10 st5">可识别文件的命令</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M838,158.5h205c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H838c-2.5,0-4.5-2-4.5-4.5
+		v-21C833.5,160.5,835.5,158.5,838,158.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 876.9949 178.5)" class="st9"><tspan x="0" y="0" class="st1 st5">Fit-Hi-C </tspan><tspan x="63.3" y="0" class="st10 st5">可执行命令</tspan></text>
+	</g>
+</g>
+</svg>

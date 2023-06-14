@@ -1,0 +1,87 @@
+<mxfile host="65bd71144e">
+    <diagram id="BOPvmpJAT7727_2u747G" name="第 1 页">
+        <mxGraphModel dx="1349" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="Preparing_juicer_file" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="350" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="290" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="generate_site_positions.py" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="274" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="samtools faidx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="326" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="bwa index" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#ED5D31;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="378" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="juicer 配置文件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="430" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="-49" y="223.99" width="20" height="290.01" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="H3DGIP位置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="212" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="基因组文件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="253" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Hi-C文库位置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="336" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="compartment 分辨率" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="378" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="TAD 分辨率" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="419" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="loop 分辨率" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="461" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="限制性内切酶类型" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="295" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="样本名称" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-293" y="502" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;font style=&quot;font-size: 20px&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="336" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;entryX=-0.017;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="30" target="33">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="630" y="368" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="548" y="289" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="288.99" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="juicer 可执行命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="277" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="鉴定compartment命令&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="329" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="鉴定TAD命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#ED5D31;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="381" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="鉴定loop命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="433" width="235" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;font style=&quot;font-size: 20px&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="339" width="60" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

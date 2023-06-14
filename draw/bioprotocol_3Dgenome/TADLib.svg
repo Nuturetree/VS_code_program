@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1052 188" style="enable-background:new 0 0 1052 188;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:20px;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#60BCD1;stroke-width:2;}
+	.st5{font-size:17px;}
+	.st6{fill:#FFFFFF;stroke:#FEC000;stroke-width:2;}
+	.st7{fill:#FFFFFF;stroke:#C1B4D2;stroke-width:2;}
+	.st8{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st9{stroke:#000000;stroke-miterlimit:10;}
+	.st10{enable-background:new    ;}
+	.st11{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st12{fill:none;}
+	.st13{font-size:12px;}
+</style>
+<g>
+	<path pointer-events="all" class="st0" d="M287.5,77.5h208c3.3,0,6,2.7,6,6v28c0,3.3-2.7,6-6,6h-208c-3.3,0-6-2.7-6-6v-28
+		C281.5,80.2,284.2,77.5,287.5,77.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 291.6318 103.5)" class="st1 st2">Preparing_TADLib_file</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M526.5,17.5h-5c-3.3,0-5,3.3-5,10v60c0,6.7-1.7,10-5,10H509c-1.7,0-0.8,0,2.5,0h2.5
+		c1.7,0,2.5,3.3,2.5,10v60c0,6.7,1.7,10,5,10h5"/>
+	<path pointer-events="all" class="st4" d="M541,1.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H541c-2.5,0-4.5-2-4.5-4.5V6
+		C536.5,3.5,538.5,1.5,541,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 567.4399 21.5)" class="st1 st5">hicproTocool.py</text>
+	</g>
+	<path pointer-events="all" class="st6" d="M541,79.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H541c-2.5,0-4.5-2-4.5-4.5V84
+		C536.5,81.5,538.5,79.5,541,79.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 594.3718 99.5)" class="st1 st5">toCooler</text>
+	</g>
+	<path pointer-events="all" class="st7" d="M541,157.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H541c-2.5,0-4.5-2-4.5-4.5
+		v-21C536.5,159.5,538.5,157.5,541,157.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 573.7444 177.5)" class="st1 st5">TADLib config</text>
+	</g>
+	<path pointer-events="stroke" class="st8" d="M211.5,97.5h63.6"/>
+	<path pointer-events="all" class="st9" d="M280.4,97.5l-7,3.5l1.8-3.5l-1.8-3.5L280.4,97.5z"/>
+	<path pointer-events="all" class="st3" d="M191.5,17.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H204
+		c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+	<path pointer-events="all" class="st4" d="M6,1.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V6
+		C1.5,3.5,3.5,1.5,6,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 47.1033 21.5)" class="st10"><tspan x="0" y="0" class="st1 st5">H3DGIP</tspan><tspan x="63.3" y="0" class="st11 st5">位置</tspan></text>
+	</g>
+	<path pointer-events="all" class="st6" d="M6,79.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V84
+		C1.5,81.5,3.5,79.5,6,79.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 56.0059 99.5)" class="st10"><tspan x="0" y="0" class="st1 st5">TAD</tspan><tspan x="34" y="0" class="st11 st5">分辨率</tspan></text>
+	</g>
+	<path pointer-events="all" class="st7" d="M6,157.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+		C1.5,159.5,3.5,157.5,6,157.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 66 177.5)" class="st11 st5">样本名称</text>
+	</g>
+	<path pointer-events="stroke" class="st8" d="M751.5,94.5h73.6"/>
+	<path pointer-events="all" class="st9" d="M830.4,94.5l-7,3.5l1.8-3.5l-1.8-3.5L830.4,94.5z"/>
+	<path pointer-events="all" class="st3" d="M731.5,14.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H744
+		c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+	<rect x="213.5" y="68.5" pointer-events="all" class="st12" width="60" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 234.5 82.5)" class="st11 st13">输入</text>
+	</g>
+	<path pointer-events="all" class="st3" d="M851.5,174.5h-5c-3.3,0-5-3.3-5-10v-60c0-6.7-1.7-10-5-10H834c-1.7,0-0.8,0,2.5,0h2.5
+		c1.7,0,2.5-3.3,2.5-10v-60c0-6.7,1.7-10,5-10h5"/>
+	<rect x="761.5" y="59.5" pointer-events="all" class="st12" width="60" height="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 782.5 73.5)" class="st11 st13">输出</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M876,1.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H876c-2.5,0-4.5-2-4.5-4.5V6
+		C871.5,3.5,873.5,1.5,876,1.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 891.125 21.5)" class="st11 st5">单条染色体切分命令</text>
+	</g>
+	<path pointer-events="all" class="st6" d="M876,79.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H876c-2.5,0-4.5-2-4.5-4.5V84
+		C871.5,81.5,873.5,79.5,876,79.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 891.125 99.5)" class="st11 st5">多条染色体合并命令</text>
+	</g>
+	<path pointer-events="all" class="st7" d="M876,157.5h171c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H876c-2.5,0-4.5-2-4.5-4.5
+		v-21C871.5,159.5,873.5,157.5,876,157.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 905.9263 177.5)" class="st10"><tspan x="0" y="0" class="st1 st5">TADLib </tspan><tspan x="61.4" y="0" class="st11 st5">运行命令</tspan></text>
+	</g>
+</g>
+</svg>

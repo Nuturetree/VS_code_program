@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="PLSs9e0W_JgxiLJVnxwD" name="第 1 页">
+        <mxGraphModel dx="2262" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Preparing_FitHiC_file" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="350" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="290" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;div&gt;&lt;font face=&quot;consolas, monospace&quot;&gt;hicpro2fithic.py&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="274" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Fit-Hi-C" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="430" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="-37" y="290" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="H3DGIP位置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" vertex="1" parent="1">
+                    <mxGeometry x="-226" y="274" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="loop分辨率" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#FEC000;" vertex="1" parent="1">
+                    <mxGeometry x="-226" y="352" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="样本名称" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" vertex="1" parent="1">
+                    <mxGeometry x="-226" y="430" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-18" y="341" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="287" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeWidth=2;direction=west;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="287" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="513" y="340" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="将HiC-Pro输出文件转换为Fit-Hi-C可识别文件的命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#60BCD1;" vertex="1" parent="1">
+                    <mxGeometry x="606" y="275" width="214" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Fit-Hi-C 可执行命令" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;strokeColor=#C1B4D2;" vertex="1" parent="1">
+                    <mxGeometry x="606" y="431" width="214" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

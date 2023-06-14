@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1111 202" style="enable-background:new 0 0 1111 202;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:20px;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#60BCD1;stroke-width:2;}
+	.st7{font-size:17px;}
+	.st8{fill:#FFFFFF;stroke:#FEC000;stroke-width:2;}
+	.st9{fill:#FFFFFF;stroke:#ED5D31;stroke-width:2;}
+	.st10{fill:#FFFFFF;stroke:#C1B4D2;stroke-width:2;}
+	.st11{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st12{fill:none;}
+	.st13{font-size:12px;}
+</style>
+<path pointer-events="all" class="st0" d="M253.5,88.5h208c3.3,0,6,2.7,6,6v28c0,3.3-2.7,6-6,6h-208c-3.3,0-6-2.7-6-6v-28
+	C247.5,91.2,250.2,88.5,253.5,88.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 258.0078 114.5)" class="st1 st2">Preparing_HiCPro_file</text>
+</g>
+<path pointer-events="all" class="st3" d="M492.5,28.5h-5c-3.3,0-5,3.3-5,10v60c0,6.7-1.7,10-5,10H475c-1.7,0-0.8,0,2.5,0h2.5
+	c1.7,0,2.5,3.3,2.5,10v60c0,6.7,1.7,10,5,10h5"/>
+<path pointer-events="stroke" class="st4" d="M662.5,30l73.6,0.5"/>
+<path pointer-events="all" class="st5" d="M741.4,30.5l-7,3.5l1.8-3.5l-1.7-3.5L741.4,30.5z"/>
+<path pointer-events="all" class="st6" d="M507,14.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H507c-2.5,0-4.5-2-4.5-4.5V19
+	C502.5,16.5,504.5,14.5,507,14.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 513.0349 34.5)" class="st1 st7">digest_genome.py</text>
+</g>
+<path pointer-events="stroke" class="st4" d="M662.5,82l73.6,0.5"/>
+<path pointer-events="all" class="st5" d="M741.4,82.5l-7,3.5l1.8-3.5l-1.7-3.5L741.4,82.5z"/>
+<path pointer-events="all" class="st8" d="M507,66.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H507c-2.5,0-4.5-2-4.5-4.5V71
+	C502.5,68.5,504.5,66.5,507,66.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 528.1714 86.5)" class="st1 st7">samtools faidx</text>
+</g>
+<path pointer-events="stroke" class="st4" d="M662.5,134l73.6,0.5"/>
+<path pointer-events="all" class="st5" d="M741.4,134.5l-7,3.5l1.8-3.5l-1.7-3.5L741.4,134.5z"/>
+<path pointer-events="all" class="st9" d="M507,118.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H507c-2.5,0-4.5-2-4.5-4.5v-21
+	C502.5,120.5,504.5,118.5,507,118.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 532.4131 138.5)" class="st1 st7">bowtie2-build</text>
+</g>
+<path pointer-events="stroke" class="st4" d="M662.5,185.8l73.6,0.3"/>
+<path pointer-events="all" class="st5" d="M741.4,186.2l-7,3.5l1.8-3.5l-1.7-3.5L741.4,186.2z"/>
+<path pointer-events="all" class="st10" d="M507,170.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H507c-2.5,0-4.5-2-4.5-4.5
+	v-21C502.5,172.5,504.5,170.5,507,170.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 527.2334 190.5)" class="st1 st7">HiC-Pro.config</text>
+</g>
+<path pointer-events="stroke" class="st4" d="M188.5,108.5h52.6"/>
+<path pointer-events="all" class="st5" d="M246.4,108.5l-7,3.5l1.8-3.5l-1.8-3.5L246.4,108.5z"/>
+<path pointer-events="all" class="st3" d="M168.5,28.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H181
+	c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+<path pointer-events="all" class="st6" d="M6,14.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V19
+	C1.5,16.5,3.5,14.5,6,14.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 37.1033 34.5)" class="st1 st7">H3DGIP</text>
+	<text transform="matrix(1 0 0 1 100.4033 33.7908)" class="st11 st7">位置</text>
+</g>
+<path pointer-events="all" class="st8" d="M6,66.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5V71
+	C1.5,68.5,3.5,66.5,6,66.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 49.625 86.5)" class="st11 st7">基因组文件</text>
+</g>
+<path pointer-events="all" class="st9" d="M6,118.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+	C1.5,120.5,3.5,118.5,6,118.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 19.5 138.5)" class="st11 st7">限制性内切酶类型</text>
+</g>
+<path pointer-events="all" class="st10" d="M6,170.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H6c-2.5,0-4.5-2-4.5-4.5v-21
+	C1.5,172.5,3.5,170.5,6,170.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 39.0042 190.5)" class="st1 st7">Hi-C</text>
+	<text transform="matrix(1 0 0 1 73.0042 189.7908)" class="st11 st7">文库位置</text>
+</g>
+<rect x="186.5" y="83.5" pointer-events="all" class="st12" width="60" height="20"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 207.5 97.5)" class="st11 st13">输入</text>
+</g>
+<path pointer-events="all" class="st6" d="M747,15.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H747c-2.5,0-4.5-2-4.5-4.5V20
+	C742.5,17.5,744.5,15.5,747,15.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 777.875 35.5)" class="st11 st7">限制性酶切片段</text>
+</g>
+<path pointer-events="all" class="st8" d="M747,67.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H747c-2.5,0-4.5-2-4.5-4.5V72
+	C742.5,69.5,744.5,67.5,747,67.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 790.625 87.5)" class="st11 st7">染色体大小</text>
+</g>
+<path pointer-events="all" class="st9" d="M747,119.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H747c-2.5,0-4.5-2-4.5-4.5v-21
+	C742.5,121.5,744.5,119.5,747,119.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 780.6931 138.7908)" class="st11 st7">基因组</text>
+	<text transform="matrix(1 0 0 1 831.6931 139.5)" class="st1 st7"> index</text>
+</g>
+<path pointer-events="all" class="st10" d="M747,171.5h151c2.5,0,4.5,2,4.5,4.5v21c0,2.5-2,4.5-4.5,4.5H747c-2.5,0-4.5-2-4.5-4.5
+	v-21C742.5,173.5,744.5,171.5,747,171.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 764.4153 191.5)" class="st1 st7">HiC-Pro </text>
+	<text transform="matrix(1 0 0 1 829.6153 190.7908)" class="st11 st7">配置文件</text>
+</g>
+<path pointer-events="stroke" class="st4" d="M930.5,108.5h53.6"/>
+<path pointer-events="all" class="st5" d="M989.4,108.5l-7,3.5l1.8-3.5l-1.8-3.5L989.4,108.5z"/>
+<path pointer-events="all" class="st3" d="M910.5,28.5h5c3.3,0,5,3.3,5,10v60c0,6.7,1.7,10,5,10h2.5c1.7,0,0.8,0-2.5,0H923
+	c-1.7,0-2.5,3.3-2.5,10v60c0,6.7-1.7,10-5,10h-5"/>
+<rect x="672.5" y="2.5" pointer-events="all" class="st12" width="60" height="20"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 693.5 16.5)" class="st11 st13">输出</text>
+</g>
+<rect x="672.5" y="56.5" pointer-events="all" class="st12" width="60" height="20"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 693.5 70.5)" class="st11 st13">输出</text>
+</g>
+<rect x="672.5" y="103.5" pointer-events="all" class="st12" width="60" height="20"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 693.5 117.5)" class="st11 st13">输出</text>
+</g>
+<rect x="672.5" y="156.5" pointer-events="all" class="st12" width="60" height="20"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 693.5 170.5)" class="st11 st13">输出</text>
+</g>
+<path pointer-events="all" class="st0" d="M999.5,78.5h102c5,0,9,4,9,9v42c0,5-4,9-9,9h-102c-5,0-9-4-9-9v-42
+	C990.5,82.5,994.5,78.5,999.5,78.5z"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 1021.3387 101.7482)" class="st1 st7">HiC-Pro </text>
+	<text transform="matrix(1 0 0 1 1008.5001 126.5224)" class="st11 st7">可执行命令</text>
+</g>
+<rect x="928.5" y="79.5" pointer-events="all" class="st12" width="60" height="20"/>
+<g transform="translate(-0.5 -0.5)">
+	<text transform="matrix(1 0 0 1 949.5 93.5)" class="st11 st13">输出</text>
+</g>
+</svg>
